@@ -2,4 +2,8 @@
 
 [♢] cd Elite_Name
 
+[♢] sh NewVip.sh
+
+
+
 
